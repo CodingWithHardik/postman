@@ -1,10 +1,6 @@
 {
 	"info": {
-		"_postman_id": "b7bfe927-7b62-4a12-bb95-6e99c36d6665",
 		"name": "Postman Library API v2",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "26556616",
-		"_collection_link": "https://www.postman.com/aerospace-administrator-23507170/workspace/dev/collection/26556616-b7bfe927-7b62-4a12-bb95-6e99c36d6665?action=share&source=collection_link&creator=26556616"
 	},
 	"item": [
 		{
