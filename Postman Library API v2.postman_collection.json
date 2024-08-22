@@ -1,7 +1,9 @@
 {
 	"info": {
 		"name": "Postman Library API v2",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "00000000",
+		"_collection_link": ""
 	},
 	"item": [
 		{
